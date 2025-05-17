@@ -15,6 +15,12 @@ Open Command Prompt and use the following command to install the required module
 pip install -r requirements.txt
 ```
 
+## ⚙️ Requirements
+
+ultralytics>=8.0.100
+opencv-python>=4.5.5.62
+
+
 ## 🌟 How to run
 
 You can run the program using the following command
