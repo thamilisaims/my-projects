@@ -18,6 +18,7 @@ pip install -r requirements.txt
 ## ⚙️ Requirements
 
 ultralytics>=8.0.100
+
 opencv-python>=4.5.5.62
 
 
