@@ -1,6 +1,6 @@
 import cv2
 
-IMAGE = cv2.imread('shape.jpg');
+IMAGE = cv2.imread('shape2.jpg');
 GREYSCALE = cv2.cvtColor(IMAGE, cv2.COLOR_BGR2GRAY)
 h, w, channels = IMAGE.shape
 
